@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: saddlebrown;
+    background-color: orange;
+    display: block;
+    width: 300px;
+}
+
+h1{
+    background-color: blueviolet;
+    color: coral;
+    margin-top: 0;
+    text-align: center;
+}
+
+h2{
+    background-color: silver;
+    text-align: center;
+}
+p{
+    background-color: cadetblue;
+    color: #871f1f;
+}
+
+ul{
+    background-color: deepskyblue;
+    color: #103781;
+}
+li{
+    background-color: yellow;
+    color: cadetblue;
+}
+
+.main_img{
+    width: 250px;
+}
+
+.other_img{
+    width: 250px;
+    height: 350px;
+}
